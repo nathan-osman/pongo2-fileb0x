@@ -1,5 +1,8 @@
 ## pongo2-fileb0x
 
+[![GoDoc](https://godoc.org/github.com/nathan-osman/pongo2-fileb0x?status.svg)](https://godoc.org/github.com/nathan-osman/pongo2-fileb0x)
+[![MIT License](http://img.shields.io/badge/license-MIT-9370d8.svg?style=flat)](http://opensource.org/licenses/MIT)
+
 This (relatively simple) package provides a [pongo2](https://github.com/flosch/pongo2) loader for templates embedded in an executable with [fileb0x](https://github.com/UnnoTed/fileb0x).
 
 ### Usage
